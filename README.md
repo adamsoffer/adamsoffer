@@ -1,5 +1,4 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on building decentralized video streaming at livepeer.org.
+- 🔭 My name's Adam and I’m currently working on building decentralized video streaming at livepeer.org.
 - 📫 How to reach me: [twitter/adamsoffer](https://twitter.com/adamsoffer)
--->
